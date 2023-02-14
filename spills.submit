@@ -1,0 +1,24 @@
+# File Name: spills.submit
+
+# Specify your executable and arguments
+executable = hello-chtc.sh
+arguments = spill_1900_1909.csv
+
+# Tell HTCondor what to name log, standard error, and standard output("screen output") files
+output = spill.out
+error = spill.error
+log = spill.log
+
+# Specify that HTCondor should transfer files to and from the
+#  computer where each job runs. 
+transfer_input_files = spill_1900_1909.csv
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+
+# Amount of resources available to your jobs
+request_cpus = 1
+request_memory = 1GB
+request_disk = 1GB
+
+# Tell HTCondor to run 3 instances of our job:
+queue 1
