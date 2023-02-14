@@ -1,7 +1,7 @@
 # File Name: spills.submit
 
 # Specify your executable and arguments
-executable = hello-chtc.sh
+executable = find_number_spills.sh
 arguments = spill_1900_1909.csv
 
 # Tell HTCondor what to name log, standard error, and standard output("screen output") files
