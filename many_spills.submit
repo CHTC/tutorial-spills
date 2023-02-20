@@ -5,9 +5,9 @@ executable = find_number_spills.sh
 arguments = $(dataset)
 
 # Tell HTCondor what to name log, standard error, and standard output("screen output") files
-output = 
-error = 
-log = 
+output = $(dataset).out
+error =  $(dataset).error
+log = $(dataset).log
 
 # Specify that HTCondor should transfer files to and from the
 #  computer where each job runs. 
