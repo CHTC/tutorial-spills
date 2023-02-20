@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Step 1: Redefine arguments from submit file
-datasest=$1
+datset=$1
 
 # Step 2: Count the number of spills by counting the number of lines minus the header row
 # Save output to a variable called `number_spills`
