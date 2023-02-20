@@ -1,0 +1,157 @@
+SpillNumber,ProgramFacilityName,Street1,Street2,Locality,County,ZIPCode,SWISCode,DECRegion,SpillDate,SpillYear,ReceivedDate,ContributingFactor,Waterbody,Source,CloseDate,MaterialName,MaterialFamily,Quantity,Units,Recovered
+8499940,10 FILKENS RD,"10 FILKENS RD, NEAR RT 31",,FAIRPORT V,Monroe,,2800,8,,1900,3/14/84,Unknown,SEWERS,Unknown,6/1/86,kerosene,Petroleum,100,Gallons,0
+8101869,100 HAVEN AVE,100 HAVEN AVENUE,,MANHATTAN,New York,,3101,2,,1900,4/1/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8579987,140 SO. MAIN ST,"146 S MAIN ST ,ACROSS FRO",,ALBION,Orleans,,3720,8,,1900,9/22/85,Unknown,GROUND,Unknown,6/1/86,paint thinners,Other,0,,0
+8502923,15 GLENDOWER CIRCLE MVA,15 GLENDOWER CIRCLE,,PITTSFORD,Monroe,,2846,8,,1900,11/15/85,Unknown,,Unknown,6/1/86,gasoline,Petroleum,2,Gallons,0
+8504071,33RD & 34TH ST MANHATTAN,33RD ST / 34TH ST,,NEW YORK,New York,,3101,2,,1900,3/21/86,Unknown,,Unknown,3/21/86,unknown material,Other,0,,0
+7900952,34TH ST & NORTHERN BLVD,34TH ST & NORTHERN BLVD,,QUEENS,Queens,,4101,2,,1900,4/1/79,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8523218,3674 MONROE AVE,ACROSS FROM 3647 MONROE A,,PITTSFORD,Monroe,,2846,8,,1900,12/10/85,Unknown,,Unknown,6/1/86,unknown hazardous material,Hazardous Material,0,,0
+9402762,480 KNICKERBOCKER AVE,480 KNICKERBOCKER AVENUE,,BROOKLYN,Kings,,2401,2,,1900,5/26/94,Unknown,,Unknown,1/14/97,unknown petroleum,Petroleum,0,Gallons,0
+9010299,695 9TH AVE/MANH,695 9TH AVENUE,,MANHATTAN,New York,,3101,2,12/29/00,1900,12/22/90,Tank Overfill,,Commercial/Industrial,11/16/94,#2 fuel oil,Petroleum,2,Gallons,0
+8520959,7101 BUFFALO ROAD,7101 BUFFALO ROAD,,CHURCHVILLE,Monroe,,2800,8,,1900,6/15/85,Unknown,STORM SEWER,Unknown,6/1/86,gasoline,Petroleum,25,Gallons,0
+8602754,74 ST & GRAND AVE,74 ST & GRAND AVE,,MASPETH,Queens,,4101,2,,1900,7/28/86,Tank Overfill,NONE,Gasoline Station or other PBS Facility,7/28/86,waste oil/used oil,Petroleum,0,Gallons,0
+8602754,74 ST & GRAND AVE,74 ST & GRAND AVE,,MASPETH,Queens,,4101,2,,1900,7/28/86,Tank Overfill,NONE,Gasoline Station or other PBS Facility,7/28/86,nonene,Other,0,,0
+7901572,A & P BROADWAY,A & P BROADWAY,,ELMHURST,Queens,,4101,2,,1900,4/1/79,Unknown,,Unknown,7/31/88,unknown material,Other,0,,0
+7980330,A AND P BROCKPORT,STATE STREET,,BROCKPORT,Monroe,,2800,8,,1900,3/29/79,Other,BARGE CANAL,Unknown,3/29/79,#2 fuel oil,Petroleum,0,Gallons,0
+8400124,AGWAY,"AGWAY PLANT,",,INTERLAKEN,Seneca,,5000,8,,1900,4/11/84,Unknown,AIR,Unknown,6/1/86,"propane, 1,2-dibromo-3-chloro-",Hazardous Material,0,,0
+8802875,AMERICHEM,1300 BROAD ST,,UTICA,Oneida,,3300,6,,1900,6/30/88,Housekeeping,,Commercial/Industrial,6/30/88,unknown petroleum,Petroleum,3,Gallons,0
+8803050,ANNSVILLE TOWN BARN,COAL HILL RD TABERG,,ANNSVILLE (T),Oneida,,3300,6,,1900,7/7/88,Unknown,,"Institutional, Educational, Gov., Other",11/19/90,diesel,Petroleum,0,,0
+8523157,ARCO - DENISON PKWY,ARCO - DENISON PKWY,,CORNING,Steuben,,5138,8,,1900,12/5/85,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+8401595,ARCO GAS STATION,"ARCO GAS STATION, INT OF",,ELMIRA (C),Chemung,,800,8,,1900,9/5/84,Unknown,GROUNDWATER,Unknown,6/1/86,gasoline,Petroleum,0,,0
+7980729,BEAVER VALLEY,POST CREEK,,BEAVER VALLEY,Chemung,,800,8,,1900,7/27/79,Unknown,POST CREEK,Unknown,8/1/79,PCB oil,Petroleum,0,Gallons,0
+8709832,BORELLO'S TRUCKING,1109 WATER STREET,,WATERTOWN,Jefferson,,2358,6,,1900,2/19/88,Tank Overfill,NONE,Commercial Vehicle,2/24/88,diesel,Petroleum,5,Gallons,2
+8503956,"BOXWOOD (#22) LANE, MVA",22 BOXWOOD LANE,,PERINTON,Monroe,,2844,8,,1900,2/10/86,Unknown,,Unknown,6/1/86,gasoline,Petroleum,15,Gallons,0
+7901220,BRUCKNER BLVD.,BRUCKNER BLVD.,,BRONX,Bronx,,301,2,,1900,4/1/79,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8403996,BUCK POND,CORNER OF LONGPOND ROAD A,,GREECE,Monroe,,2828,8,,1900,2/24/85,Unknown,,Unknown,6/1/86,unknown material,Other,0,,0
+8579992,BUCK POND (FISHKILL),"1067 EDGEMERE, (ALONG NOR",,GREECE,Monroe,,2828,8,,1900,6/18/85,Unknown,BUCK POND,Unknown,6/1/86,unknown hazardous material,Hazardous Material,0,,0
+8502652,CADBURY SCHWEPPES (DUFFY,CADBURY SCHWEPPES (FORMER,,WILLIAMSON,Wayne,,5946,8,,1900,10/24/85,Unknown,SALMON CREEK,Unknown,6/1/86,apple juice,Other,30000,Gallons,0
+7781217,CANANDAIGUA CITY SEWER,CANANDAIGUA SEWER SYSTEM,,CANANDAIGUA,Ontario,,3524,8,,1900,12/19/77,Unknown,,Gasoline Station or other PBS Facility,12/19/77,gasoline,Petroleum,0,,0
+8800322,CARY JUNKYARD,RATHBURN RD.OFF CO.RT 85,,HANNIBAL,Oswego,,3830,7,,1900,4/11/88,Housekeeping,,Passenger Vehicle,7/15/88,waste oil/used oil,Petroleum,0,,0
+9507062,CHAMPION INTERNATIONAL,400 ANDERSON AVE,,Deferiet,Jefferson,,2300,6,,1900,9/10/95,Unknown,,Commercial/Industrial,2/1/96,unknown material,Other,0,Pounds,0
+8524569,CHILI AVE. & OLD CHILI SC,CORNER OF CHILI AVE. AND,,CHILI,Monroe,,2822,8,,1900,3/17/86,Unknown,,Unknown,6/1/86,waste oil/used oil,Petroleum,0,,0
+8603969,"COMMISSO, JIM",666 WEST LAKE ROAD,,PULTENEY,Steuben,,5100,8,,1900,9/18/86,Tank Failure,KEUKA LAKE,Commercial/Industrial,3/31/87,gasoline,Petroleum,0,,0
+8499985,CONKING AND CALABRESE GAS,CONKING AND CALABRESE GAS,,FAIRPORT V,Monroe,,2800,8,,1900,2/10/84,Unknown,IRONDEQUOIT CR,Unknown,6/1/86,gasoline,Petroleum,5,Gallons,0
+8503748,CORNING HILTON,ROUTE 17,,CAMPBELL,Steuben,,5130,8,,1900,1/17/86,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,Pounds,0
+8500222,COUNTRY LIVING MOBILE HOM,"LOT 10, COUNTRY LIVING MO",,MACEDON,Wayne,,5930,8,,1900,4/19/85,Unknown,DRAINAGE DITCH,Unknown,6/1/86,#2 fuel oil,Petroleum,200,Gallons,0
+8401726,COVERED WAGON TRUCK CORP,ROUTE 14A NORTH OF RT 245,,SENECA,Ontario,,3544,8,,1900,9/30/84,Unknown,DRAINAGE DITCH,Unknown,6/1/86,motor oil,Petroleum,3000,Gallons,3000
+8403181,CROP DUSTER CRASH,SENECA FALLS AIRPORT,,SENECA FALLS,Seneca,,5032,8,,1900,5/10/84,Unknown,GROUND,Unknown,6/1/86,gasoline,Petroleum,5,Gallons,0
+8524725,CROSSETT INC.,"BAY TRAIL SCHOOL, 1760 SC",,PENFIELD,Monroe,,2842,8,,1900,3/20/86,Unknown,,Unknown,6/1/86,#2 fuel oil,Petroleum,5,Gallons,0
+8399970,DOT BRIDGE PAINTING,ROUTE 15 BRIDGE CROSSING,,WALLACE,Steuben,,5100,8,,1900,9/29/83,Unknown,COHOCTON RIVER,Unknown,6/1/86,paint,Other,0,,0
+8422377,DOT RESIDENCY,"DOT RESIDENCY, RT 31",,NEWARK,Wayne,,5900,8,,1900,12/5/84,Unknown,GROUNDWATER,Unknown,6/1/86,gasoline,Petroleum,870,Gallons,0
+8200885,EAGLE & WESTCHESTER AVES,EAGLE / WESTCHESTER AVE,,BRONX,Bronx,,301,2,,1900,4/1/82,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8502535,EAGLE HARBOR-KNOWLESVILLE,EAGLE HARBOR - KNOWLESVIL,,ALBION,Orleans,,3720,8,,1900,10/17/85,Unknown,WATER,Unknown,6/1/86,unknown hazardous material,Hazardous Material,0,,0
+8504359,EARL RESIDENCE,3886 EAGAM RD,,LAFAYETTE,Onondaga,,3434,7,,1900,3/7/86,Unknown,,Unknown,1/6/88,unknown petroleum,Petroleum,0,,0
+8504121,EMMONS ST @ TRAILER PARK,EMMONS ST @ TRAILER PARK,,NEWARK,Wayne,,5900,8,,1900,2/21/86,Unknown,,Unknown,3/5/86,#2 fuel oil,Petroleum,0,,0
+8100421,FLUSHING MEADOW PARK,LIE / GRAND CENTRAL PKWY,,FLUSHING MEADOWS PARK,Queens,,4101,2,,1900,4/1/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8524838,GENEVA FORD AND VW,GENEVA FORD & VW DEALERSH,,GENEVA,Ontario,,3530,8,,1900,3/25/86,Unknown,,Unknown,6/1/86,unknown material,Other,0,,0
+8524722,GENEVA FOUNDRY,"GENEVA FOUNDRY, EXCHANGE",,GENEVA,Ontario,,3530,8,,1900,3/21/86,Unknown,,Unknown,6/1/86,unknown material,Other,0,,0
+8601824,GORHAM HIGHWAY DEPARTMENT,TOWN OF GORHAM HGWY DEPT.,,GORHAM,Ontario,,3532,8,,1900,6/16/86,Tank Failure,,"Institutional, Educational, Gov., Other",6/21/86,#2 fuel oil,Petroleum,0,,0
+8080312,GOVERNOR CHEVROLET,ROUTE 104,,WOLCOTT,Wayne,,5900,8,,1900,3/10/80,Tank Failure,GROUND WATER,Commercial/Industrial,3/11/80,gasoline,Petroleum,0,Gallons,0
+8403220,GREEN (TOBEHANNA LAKE) FI,GREEN LAKE (TOBEHANNA LAK,,TYRONE,Schuyler,,4934,8,,1900,8/20/84,Unknown,GREEN (TOBEHANNA) LA,Unknown,6/1/86,unknown material,Other,0,,0
+8601825,GRIFFITH OIL,PEARL & BROOKLYN,,BATAVIA,Genesee,,1924,8,,1900,6/16/86,Tank Test Failure,,Gasoline Station or other PBS Facility,3/31/87,gasoline,Petroleum,0,,0
+8403997,HARNETT L. T. HORNON,KEUKA OUTLET AT BIRKETT M,,PENN YAN,Yates,,6200,8,,1900,10/26/84,Unknown,,Unknown,6/1/86,unknown material,Other,0,,0
+8503271,HARVEY (BRIAN) RESIDENCE,,,RIGA,Monroe,,2848,8,,1900,12/12/85,Unknown,,Unknown,8/1/88,unknown hazardous material,Hazardous Material,0,,0
+8503271,HARVEY (BRIAN) RESIDENCE,,,RIGA,Monroe,,2848,8,,1900,12/12/85,Unknown,,Unknown,8/1/88,unknown petroleum,Petroleum,0,,0
+8523815,HAXTON MEMORIAL LIBRARY,"HAXTON MEMORIAL LIBRARY,",,OAKFIELD,Genesee,,1938,8,,1900,1/28/86,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+8302532,"HOUGHTALING RESIDENCE, GO",GORDON HOUGHTALING RESIDE,,CLYDE,Wayne,,5900,8,,1900,3/9/84,Unknown,GROUND,Unknown,6/1/86,#2 fuel oil,Petroleum,200,Gallons,0
+8321969,J O COOKE CO,"MRS JOEL RESIDENCE, 16 VA",,AVON,Livingston,,2620,8,,1900,12/30/83,Unknown,GROUND,Unknown,6/1/86,#2 fuel oil,Petroleum,60,Gallons,0
+7880503,KENNEDY VALVE,JUDSON ST/STORM SEWER,,ELMIRA,Chemung,,830,8,,1900,5/4/78,Unknown,NEWTOWN CREEK,Unknown,5/31/78,unknown petroleum,Petroleum,0,,0
+8524609,KENTUCKY AVENUE PROJECT,CHEMUNG ST BEHIND COUNYTY,,HORSEHEADS,Chemung,,800,8,,1900,3/18/86,Unknown,,Unknown,6/1/86,waste oil/used oil,Petroleum,0,,0
+8403202,KEUKA LAKE FISHKILL,KEUKA LAKE,,HAMMONDSPORT,Steuben,,5100,8,,1900,7/6/84,Unknown,,Unknown,6/1/86,unknown hazardous material,Hazardous Material,0,,0
+8504358,KICK (EASTWOOD RD.),8076 EASTWOOD RD-KICK RES,,CICERO,Onondaga,,3422,7,,1900,3/7/86,Unknown,,Unknown,1/6/88,unknown petroleum,Petroleum,0,,0
+8499948,KLEEN-BRITE CO,NYS BARGE CANAL,,BROCKPORT,Monroe,,2852,8,,1900,1/5/84,Unknown,SANDY CR TRIBS & CAN,Unknown,6/1/86,sodium dodecylbenzene sulfonate,Hazardous Material,0,,0
+8522611,KLUE (MICHAEL) RESIDENCE,"RT 96A, I MILE NORTH OF S",,ROMULUS,Seneca,,5030,8,,1900,10/18/85,Unknown,GROUNDWATER,Unknown,6/1/86,gasoline,Petroleum,0,,0
+9402798,LAFAYETTE AVE,LAFAYETTE AVE,,BROOKLYN,New York,,3101,2,,1900,5/26/94,Traffic Accident,,Commercial Vehicle,1/14/97,unknown petroleum,Petroleum,5,Gallons,0
+8504570,MANDARIN DRIVE & WOOD ROA,MANDARIN DRIVE AND WOOD R,,GREECE,Monroe,,2828,8,,1900,3/17/86,Unknown,,Unknown,6/1/86,waste oil/used oil,Petroleum,1,Gallons,0
+8499991,MATLACK TRUCKING,MAIN STREET,,ARKPORT,Steuben,,5100,8,,1900,2/3/84,Unknown,,Unknown,6/1/86,#2 fuel oil,Petroleum,20,Gallons,0
+8521114,MOBIL GAS STATION,3075 BUFFALO ROAD,,GATES,Monroe,,2826,8,,1900,6/27/85,Unknown,GROUNDWATER,Unknown,6/1/86,gasoline,Petroleum,0,Pounds,0
+8101380,MOBIL OIL; CLAY,,,CLAY,Onondaga,,3400,7,,1900,12/17/81,Unknown,,Unknown,11/12/87,unknown material,Other,0,,0
+8101586,MOBIL OIL; NO. SYR.,,,NORTH SYRACUSE,Onondaga,,3400,7,,1900,2/2/82,Unknown,,Unknown,11/12/87,unknown material,Other,0,,0
+8100234,MOBIL SERVICE STATION,CANAL ST / WEST SIDE HWY,,MANHATTAN,New York,,3101,2,,1900,4/1/81,Unknown,,Unknown,11/30/85,unknown material,Other,0,,0
+8401545,MOBIL SERVICE STATION,26 FORSYTHE ST / PIKE ST,,NEW YORK CITY,New York,,3101,2,,1900,4/1/84,Unknown,,Unknown,5/11/89,unknown material,Other,0,,0
+8503218,MONROE (#3674) AVENUE,3674 MONROE AVENUE,,PITTSFORD,Monroe,,2846,8,,1900,12/10/85,Unknown,,Unknown,1/1/86,unknown hazardous material,Hazardous Material,0,,0
+8601669,MORANIA OIL COMPANY,CHEVRON ASPHALT TERMINAL,,LYONS,Wayne,,5928,8,,1900,6/10/86,Equipment Failure,NYS BARGE CANAL,Commercial/Industrial,3/31/87,#6 fuel oil,Petroleum,25,Gallons,0
+8504735,MYNDERSE (#12) STREET,12 MYNDERSE STREET,,SENECA FALLS,Seneca,,5032,8,,1900,3/22/86,Unknown,,Unknown,6/1/86,paint thinners,Other,1,Gallons,0
+8504576,NSI GAS STATION #560,,,GREECE,Monroe,,2800,8,,1900,3/17/86,Unknown,,Unknown,3/31/87,gasoline,Petroleum,0,,0
+8401767,NYS BARGE CANAL (LYONS),CREAGHERS ST BRIDGE,,LYONS,Wayne,,5928,8,,1900,10/3/84,Unknown,NYS BARGE CANAL,Unknown,6/1/86,oil based sealer,Petroleum,0,,0
+8401106,NYS THRUWAY- JUNIUS PONDS,NYS THRUWAY,JUNIUS PONDS,WATERLOO,Seneca,,5038,8,,1900,7/23/84,Unknown,,Unknown,6/1/86,gasoline,Petroleum,900,Gallons,0
+8503166,OAK ORCHARD CREEK,"0AK ORCHARD CREEK, DAM SP",,MEDINA,Orleans,,3700,8,,1900,11/22/85,Unknown,,Unknown,6/1/86,unknown hazardous material,Hazardous Material,0,,0
+8400142,ONTARIO GAS STA,1933 RIDGE ROAD,,ONTARIO,Wayne,,5934,8,,1900,4/16/84,Unknown,GROUND,Unknown,6/1/86,gasoline,Petroleum,5,Gallons,0
+8400606,PAL OIL CO,"W R CAMPBELL FUEL CO, PAC",,WATERLOO,Seneca,,5038,8,,1900,5/31/84,Unknown,GROUND,Unknown,6/1/86,#2 fuel oil,Petroleum,50,Gallons,0
+8499978,PAL OIL CO,"WAYSIDE GARDEN CENTER, RT",,MACEDON,Wayne,,5930,8,,1900,1/24/84,Unknown,,Unknown,6/1/86,kerosene,Petroleum,172,Gallons,0
+8000413,PALLOTA'S MOBIL,MILTON AVENUE,,SOLVAY,Onondaga,,3400,7,,1900,6/16/80,Unknown,,Unknown,7/28/87,unknown material,Other,0,,0
+8100553,PARKCHESTER HOSPITAL,PARKCHESTER HOSPITAL,,BRONX,Bronx,,301,2,,1900,4/1/81,Unknown,,Unknown,3/29/85,unknown material,Other,0,,0
+8503373,PENFIELD RD GAS STATION,GAS STATION LOCATED AT TH,,PENFIELD,Monroe,,2842,8,,1900,12/26/85,Unknown,,Unknown,6/1/86,gasoline,Petroleum,10,Gallons,0
+8180518,PORT BAY,DOVE ROAD,,WOLCOTT,Wayne,,5948,8,,1900,5/18/81,Unknown,PORT BAY,Unknown,5/22/81,diesel,Petroleum,0,Gallons,0
+8524729,PRATTSBURGH GRANGE,GRANGE BUILDING (LIQUOR S,,PRATTSBURGH,Steuben,,5100,8,,1900,3/21/86,Unknown,,Unknown,6/1/86,#2 fuel oil,Petroleum,100,Gallons,0
+8301156,PULLEN RESIDENCE,"PULLEN RESIDENCE, 5579 E.",,SHELBY,Orleans,,3736,8,,1900,8/31/83,Unknown,GROUNDWATER,Unknown,6/1/86,#2 fuel oil,Petroleum,150,Gallons,0
+8709993,QUEENS DAIRY RD.,QUEENS DAIRY RD.,,MARTVILLE,Cayuga,,600,7,,1900,2/26/88,Unknown,PRIVATE WELL,Private Dwelling,5/20/88,#2 fuel oil,Petroleum,200,Gallons,0
+8504924,REIS (TED) RESIDENCE,,,CLARENDON,Orleans,,3700,8,,1900,3/26/86,Unknown,,Unknown,4/30/86,gasoline,Petroleum,0,,0
+8524924,REIS (TED) RESIDENCE,"16569 RIDGE ROAD, HOLLEY,",,CLARENDON,Orleans,,3726,8,,1900,3/26/86,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+9108142,REPUBLIC STEEL DUMP  HUDSON RIVER  (WATER ST?),HUDSON RIVER NEAR WWTP  (MAIN ST? WATER ST?),REPUBLIC STEEL DUMP  NEAR RCSD TREATMENT,TROY,Rensselaer,,4217,4,1/1/00,1900,10/4/91,Other,GROUNDWATER HUDSON $,Commercial/Industrial,11/5/91,coal tar pitch volatiles,Hazardous Material,0,Pounds,0
+9416120,RITE AIDE WAREHOUSE,SUCCESS DRIVE,,ROME C,Oneida,,3300,6,,1900,3/14/95,Unknown,,Commercial/Industrial,3/16/95,diesel,Petroleum,0,,0
+9402772,RIVER AVE,RIVER AVE,,BRONX,Bronx,,301,2,,1900,5/26/94,Human Error,,Commercial Vehicle,5/26/94,vinyl chloride,Hazardous Material,2,Gallons,0
+8503013,ROCHESTER AUTO MAINTENANC,2472 MONROE AVE,,BRIGHTON,Monroe,,2820,8,,1900,11/21/85,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+8503889,RODGERS (ROBERT) RESIDENC,ROBERT RODGERS,153 EAST,WATERLOO,Seneca,,5038,8,,1900,2/3/86,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+8504938,ROUTE 5 & 20 AT SUCKER BR,ROUTE 5 & 20 AT CANANDAIG,,CANANDAIGUA,Ontario,,3524,8,,1900,3/25/86,Unknown,,Unknown,6/1/86,unknown material,Other,0,,0
+8403184,ROUTE 53,ROUTE 53 1 MILE SOUTH OF,,PRATTSBURGH,Steuben,,5100,8,,1900,5/18/84,Unknown,GROUND,Unknown,6/1/86,hydrogen chloride,Hazardous Material,5,Gallons,0
+8401213,RT 390 & JEFFERSON RD,ROUTE 390 & JEFFERSON RD,,HENRIETTA,Monroe,,2832,8,,1900,8/3/84,Unknown,ROADWAY,Unknown,6/1/86,oil based sealer,Petroleum,0,,0
+8403199,RT 96A,RT 96A FROM SAMPSON STATE,,OVID,Seneca,,5028,8,,1900,6/20/84,Unknown,GROUND,Unknown,6/1/86,#2 fuel oil,Petroleum,0,,0
+8300788,RT. 91; TRUXTON,ROUTE 91,,TRUXTON,Cortland,,1244,7,,1900,7/14/83,Unknown,,Unknown,1/8/87,unknown material,Other,0,,0
+8301388,RT.19 AND MAIN ST.,ROUTE 19 & HOWARD STREET,,BROCKPORT,Monroe,,2800,8,,1900,10/7/83,Unknown,GROUND,Unknown,6/1/86,lube oil,Petroleum,20,Gallons,0
+8703037,"RUM CREEK / CARTERACT, NE",CARTERACT/RUM CREEK,,NEW YORK CITY,New Jersey - Region 2,,7400,2,,1900,7/10/87,Unknown,ARTHUR KILL,Unknown,7/10/87,unknown petroleum,Petroleum,0,,0
+8603112,S.WEST & N.WEST CNR. OF 1,SW & NW CNR./ 128TH & 2ND,,MANHATTAN,New York,,3101,2,,1900,8/9/86,Unknown,,Gasoline Station or other PBS Facility,8/9/86,gasoline,Petroleum,0,,0
+8504249,SILASCHI (JOE) PROPERTY,NE CORNER OF NORWAY & KEN,,KENDALL,Orleans,,3730,8,,1900,3/11/86,Unknown,,Unknown,6/1/86,unknown hazardous material,Hazardous Material,55,Gallons,0
+8503135,SLENDER YOU BEAUTY SALON,"SLENDER YOU BEAUTY SALON,",,ELMIRA,Chemung,,830,8,,1900,12/4/85,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+7900928,Spill Number 7900928,,,BROOKLYN,Kings,,2401,2,,1900,4/1/79,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+7901595,Spill Number 7901595,,,SCRIBA,Oswego,,3800,7,,1900,3/21/80,Unknown,,Unknown,9/12/85,unknown material,Other,0,,0
+8000260,Spill Number 8000260,,,QUEENS,Queens,,4101,2,,1900,4/1/80,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8000325,Spill Number 8000325,,,BALDWINSVILLE,Onondaga,,3400,7,,1900,5/24/80,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8000810,Spill Number 8000810,,,CANASTOTA,Madison,,2700,7,,1900,9/3/80,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8001005,Spill Number 8001005,,,SKANEATELES,Onondaga,,3400,7,,1900,10/9/80,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8001140,Spill Number 8001140,,,WILLET,Cortland,,1200,7,,1900,11/6/80,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8001574,Spill Number 8001574,,,MINOA,Onondaga,,3400,7,,1900,2/2/81,Unknown,,Unknown,9/19/85,unknown material,Other,0,,0
+8001650,Spill Number 8001650,,,OWASCO,Cayuga,,600,7,,1900,2/13/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100079,Spill Number 8100079,,,BRONX,Bronx,,301,2,,1900,4/1/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100257,Spill Number 8100257,,,VAN BUREN,Onondaga,,3400,7,,1900,5/13/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100415,Spill Number 8100415,,,NEW HAVEN,Oswego,,3800,7,,1900,6/11/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100459,Spill Number 8100459,,,SYRACUSE,Onondaga,,3400,7,,1900,6/19/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100540,Spill Number 8100540,,,UNION SPRINGS,Cayuga,,600,7,,1900,7/7/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100636,Spill Number 8100636,,,HASTINGS,Oswego,,3800,7,,1900,7/23/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8101095,Spill Number 8101095,,,SALINA,Onondaga,,3400,7,,1900,10/21/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8101104,Spill Number 8101104,,,MANLIUS,Onondaga,,3400,7,,1900,10/22/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8101167,Spill Number 8101167,,,SYRACUSE,Onondaga,,3400,7,,1900,10/30/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8101538,Spill Number 8101538,RTE 8,,BROOKFIELD,Madison,,2720,7,,1900,1/25/82,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8200240,Spill Number 8200240,,,SPATFORD,Onondaga,,3400,7,,1900,5/8/82,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8200610,Spill Number 8200610,,,SYRACUSE,Onondaga,,3400,7,,1900,7/2/82,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8201637,Spill Number 8201637,CLINTON ST,,FAYETTEVILLE,Onondaga,,3400,7,,1900,11/28/82,Unknown,,Unknown,10/10/86,unknown material,Other,0,,0
+8201921,Spill Number 8201921,,,SKANEATELES CREEK,Onondaga,,3400,7,,1900,2/17/83,Unknown,,Unknown,11/13/86,unknown material,Other,0,,0
+8202219,Spill Number 8202219,RTE 365A,,ONEIDA,Madison,,2712,7,,1900,3/30/83,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8300519,Spill Number 8300519,,,DEWITT,Onondaga,,3400,7,,1900,6/9/83,Unknown,,Unknown,10/10/86,unknown material,Other,0,,0
+8301161,Spill Number 8301161,,,SYRACUSE,Onondaga,,3400,7,,1900,9/1/83,Unknown,,Unknown,1/22/85,unknown material,Other,0,,0
+8301206,Spill Number 8301206,CENTRAL AVE.,,CORTLAND,Cortland,,1202,7,,1900,9/9/83,Unknown,,Unknown,3/4/87,unknown material,Other,0,,0
+8301858,Spill Number 8301858,,,SYRACUSE,Onondaga,,3400,7,,1900,12/16/83,Unknown,,Unknown,4/16/86,unknown material,Other,0,,0
+8301905,Spill Number 8301905,,,SYRACUSE,Onondaga,,3400,7,,1900,12/22/83,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8302062,Spill Number 8302062,,,NORTH SYRACUSE,Onondaga,,3400,7,,1900,1/17/84,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8302297,Spill Number 8302297,CHADWICK ISBELL-SPILLER,,SKANEATELES,Onondaga,,3450,7,,1900,2/15/84,Unknown,,Unknown,10/10/86,unknown material,Other,0,,0
+8302336,Spill Number 8302336,,,BRUTUS,Cayuga,,600,7,,1900,2/17/84,Unknown,,Unknown,10/10/86,unknown material,Other,0,,0
+8302697,Spill Number 8302697,,,SALINA,Onondaga,,3400,7,,1900,3/28/84,Unknown,,Unknown,10/10/86,unknown material,Other,0,,0
+8403294,Spill Number 8403294,,,MANLIUS,Onondaga,,3400,7,,1900,2/26/85,Unknown,,Unknown,11/13/86,unknown material,Other,0,,0
+8502987,Spill Number 8502987,,,SKANEATELES,Onondaga,,3400,7,,1900,11/20/85,Unknown,,Unknown,9/22/87,gasoline,Petroleum,0,,0
+8803890,Spill Number 8803890,FLORAL AVE CEMETERY,,JOHNSON CITY,Broome,,400,7,,1900,7/29/88,Unknown,,Unknown,7/29/88,waste oil/used oil,Petroleum,0,,0
+8399954,STEUBEN LPG CO,"MARCHESE'S SUMMER CAMP, C",,HARTSVILLE,Steuben,,5148,8,,1900,12/13/83,Unknown,GROUND,Unknown,6/1/86,kerosene,Petroleum,5,Gallons,0
+8301875,STOP AND GO,"STOP AND GO SHOP, JCT. RT",,CORFU,Genesee,,1900,8,,1900,12/19/83,Unknown,,Unknown,6/1/86,gasoline,Petroleum,0,,0
+8500159,STURMER RESIDENCE,BRADLEY G STURMER RESIDEN,,EAST BLOOMFIELD,Ontario,,3526,8,,1900,4/13/85,Unknown,TRIB OF HONEOYE CREE,Unknown,6/1/86,#2 fuel oil,Petroleum,150,Gallons,0
+7901404,SUBWAY-NORTHERN BLVD.,SUBWAY-NORTHERN BLVD.,,QUEENS,Queens,,4101,2,,1900,4/1/79,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+8100041,SUBWAY-NYC,SUBWAY-NYC,,BROOKLYN,Kings,,2401,2,,1900,4/1/81,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+9507147,SULLIVAN DR. CANTON,SULLIVAN DRIVE,,CANTON,St Lawrence,,4522,6,,1900,9/12/95,Unknown,,Unknown,2/1/96,unknown material,Other,0,Pounds,0
+8499993,SUNY COLLEGE AT BROCKPORT,"SUNY COLLEGE BROCKPORT,",,BROCKPORT V,Monroe,,2800,8,,1900,2/17/84,Unknown,GROUNDWATER,Unknown,6/1/86,gasoline,Petroleum,0,,0
+2208599,UNKNOWN PETROLEUM ONTO MTA TRACKS,640 CONDUIT BLVD,,BROOKLYN,Kings,,2401,2,1/22/00,1900,1/22/23,Unknown,,Unknown,1/23/23,unknown petroleum,Petroleum,0,,0
+7901505,VAN BRUNT STR.,BENSONHURST,,BROOKLYN,Kings,,2401,2,,1900,4/1/79,Unknown,,Unknown,7/31/85,unknown material,Other,0,,0
+7880128,WADSWORTH GROCERY,ROUTE 36 AND OLD STATE RD,,YORK,Livingston,,2652,8,,1900,1/30/78,Tank Failure,,Gasoline Station or other PBS Facility,2/28/78,gasoline,Petroleum,0,,0
+8202132,WEST END AVE,WEST END AVE.,,MANHATTAN,Kings,,2401,2,,1900,4/1/82,Unknown,,Unknown,10/10/86,unknown material,Other,0,,0
+8499997,WEYERHAUSER,"WEYERHAUSER,",,PAINTED POST V,Steuben,,5100,8,,1900,2/26/84,Unknown,ROADSIDE DITCH,Unknown,6/1/86,waste oil/used oil,Petroleum,100,Gallons,0
+8800079,WHITFORD FARM,SKANEATLAS TRNPK RT8&12,,BROOKFIELD,Madison,,2720,7,,1900,4/4/88,Unknown,,Unknown,5/2/88,unknown petroleum,Petroleum,0,,0
+8499974,"WILDER RESIDENCE, ARTHUR","ARTHUR WILDER COTTAGE, 63",,PULTENEY,Steuben,,5100,8,,1900,1/10/84,Unknown,"GROUNDWATER, KEUKA L",Unknown,6/1/86,#2 fuel oil,Petroleum,0,,0
+8421762,XEROX,"XEROX, BLDG 208, JOSEPH W",,WEBSTER,Monroe,,2854,8,,1900,10/2/84,Unknown,NONE,Unknown,6/1/86,hydrogen chloride,Hazardous Material,0,,0
+909514,ROADSIDE DITCH,4510 EAST RAIL ROAD,,STOCKTON,Chautauqua,,768,9,11/12/09,1909,11/25/09,Human Error,BEAR CREEK,Passenger Vehicle,12/7/09,transmission fluid,Petroleum,2,Gallons,0
