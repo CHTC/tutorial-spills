@@ -1,19 +1,18 @@
-# File Name: spills.submit
+# File Name: one_spill.submit
 
 # Specify your executable and arguments
-executable = find_number_spills.sh
-arguments = spills_1950_1959.csv
+executable = search_spills.sh
+arguments = spills_1900_1909.csv
 
 # Tell HTCondor what to name log, standard error, and standard output("screen output") files
-output = spill.out
-error = spill.error
-log = spill.log
+output = test.out
+error = test.error
+log = test.log
 
 # Specify that HTCondor should transfer files to and from the
 #  computer where each job runs. 
-transfer_input_files = spills_1950_1959.csv
+transfer_input_files = data/spills_1900_1909.csv
 should_transfer_files = YES
-when_to_transfer_output = ON_EXIT
 
 # Amount of resources available to your jobs
 request_cpus = 1
